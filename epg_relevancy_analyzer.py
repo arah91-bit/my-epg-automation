@@ -7,7 +7,7 @@ from collections import defaultdict
 # Please update these paths to match your system's setup.
 
 # 1. Your M3U playlist of working streams.
-PLAYLIST_FILE = "C:\server\epg\cleaned_playlist.m3u"
+PLAYLIST_FILE = "C:\\server\\epg\\m3ulinks.txt"
 
 # 2. Your list of "working" EPG sites you want to analyze.
 SITES_TO_ANALYZE_FILE = "C:\\server\\epg\\epgsites.clean.txt"
