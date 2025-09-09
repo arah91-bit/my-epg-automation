@@ -42,6 +42,7 @@ Copy the following files from this repository into your `C:\server\epg\` folder:
 * `generate_cleaned_playlist.py`
 * `epg_relevancy_analyzer.py` (Optional diagnostic tool)
 * `epgsites.txt` (The full, un-curated list of all potential EPG sites)
+* 'm3ulinks.txt' (Edit this with whatever m3ulinks you want the default is the eng IPTV-org list)
 
 ### 3. Configure the Python Script (`generate_cleaned_playlist.py`)
 
