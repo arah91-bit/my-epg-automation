@@ -1,0 +1,26 @@
+# Recommended EPG sites based on your playlist
+# Generated automatically. Only includes sites with 10 or more channel matches.
+
+tvpassport.com
+tvtv.us
+directv.com
+plex.tv
+tvguide.com
+epg.iptvx.one
+tvhebdo.com
+sky.com
+virgintvgo.virginmedia.com
+tv.blue.ch
+mytelly.co.uk
+m.tv.sms.cz
+tvireland.ie
+xumo.tv
+chaines-tv.orange.fr
+gigatv.3bbtv.co.th
+meo.pt
+tv.mail.ru
+watchyour.tv
+tv.sfr.fr
+freeview.co.uk
+player.ee.co.uk
+programetv.ro
